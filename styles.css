@@ -2,25 +2,63 @@ body, header, blockquote, footer, div, h1, h2, h3, h4, ul, p  {margin:0;
 		padding:0;
 }
 
-body{
+body{background-color: #ffffff;
+	background: url(stains.png) no-repeat ;
+	margin-left: auto; 
+	margin-right: auto;	
+	font-family: 'Open Sans', sans-serif;	
 }
 
 header{
 }
 
-h1{
+section{width: 800px;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
 }
 
-p{
+img{border-top :1px solid black;
+	border-bottom:1px solid black;
+	border-left:1px solid black;
+	border-right:1px solid black;	
+	width: 300px;
+	height: 300px;
+
 }
 
-img{
+h1{color: blue;
+	font-size: 60px;
+	text-align: center;
+
 }
 
-nav ul{
+.container {width: 800px;
+	background-color: #F6F5EF;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 15px 20px;
+	margin-bottom: 50px;
+	margin-top: 50px;
 }
 
-nav li{
+p{margin-bottom: 10px;
+
+}
+
+nav li{display: inline;
+
+
+ }
+
+nav ul{list-style-type: none;
+	margin-right: auto;
+	margin-left: auto;
+	width: 280px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+
 }
 
 footer{
