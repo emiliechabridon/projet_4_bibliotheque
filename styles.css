@@ -169,67 +169,131 @@ li{list-style-type: none;
 
 }
 
-.title1{background: url("img/1.jpg") no-repeat center ;
+.title1{background: url("img/title-01.jpg") no-repeat center ;
 	display: inline-block;
 }
 
-.title2{background: url("img/1.jpg") no-repeat center ;
+.title1:hover{background: url("img/titlehov-01.jpg") no-repeat center ;
 	display: inline-block;
 }
 
-.title3{background: url("img/1.jpg") no-repeat center ;
+.title2{background: url("img/title-02.jpg") no-repeat center ;
 	display: inline-block;
 }
 
-.title4{background: url("img/1.jpg") no-repeat center ;
+.title2:hover{background: url("img/titlehov-02.jpg") no-repeat center ;
 	display: inline-block;
 }
 
-.title5{background: url("img/1.jpg") no-repeat center ;
+.title3{background: url("img/title-03.jpg") no-repeat center ;
 	display: inline-block;
 }
 
-.title6{background: url("img/1.jpg") no-repeat center ;
+.title3:hover{background: url("img/titlehov-03.jpg") no-repeat center ;
 	display: inline-block;
 }
 
-.title7{background: url("img/1.jpg") no-repeat center ;
+.title4{background: url("img/title-04.jpg") no-repeat center ;
 	display: inline-block;
 }
 
-.title8{background: url("img/1.jpg") no-repeat center ;
+.title4:hover{background: url("img/titlehov-04.jpg") no-repeat center ;
 	display: inline-block;
 }
 
-.title9{background: url("img/1.jpg") no-repeat center ;
+.title5{background: url("img/title-05.jpg") no-repeat center ;
 	display: inline-block;
 }
 
-.title10{background: url("img/1.jpg") no-repeat center ;
+.title5:hover{background: url("img/titlehov-05.jpg") no-repeat center ;
 	display: inline-block;
 }
 
-.title11{background: url("img/1.jpg") no-repeat center ;
+.title6{background: url("img/title-06.jpg") no-repeat center ;
 	display: inline-block;
 }
 
-.title12{background: url("img/1.jpg") no-repeat center ;
+.title6:hover{background: url("img/titlehov-06.jpg") no-repeat center ;
 	display: inline-block;
 }
 
-.title13{background: url("img/1.jpg") no-repeat center ;
+.title7{background: url("img/title-07.jpg") no-repeat center ;
 	display: inline-block;
 }
 
-.title14{background: url("img/1.jpg") no-repeat center ;
+.title7:hover{background: url("img/titlehov-07.jpg") no-repeat center ;
 	display: inline-block;
 }
 
-.title15{background: url("img/1.jpg") no-repeat center ;
+.title8{background: url("img/title-08.jpg") no-repeat center ;
 	display: inline-block;
 }
 
-.title16{background: url("img/1.jpg") no-repeat center ;
+.title8:hover{background: url("img/titlehov-08.jpg") no-repeat center ;
+	display: inline-block;
+}
+
+.title9{background: url("img/title-09.jpg") no-repeat center ;
+	display: inline-block;
+}
+
+.title9:hover{background: url("img/titlehov-09.jpg") no-repeat center ;
+	display: inline-block;
+}
+
+.title10{background: url("img/title-10.jpg") no-repeat center ;
+	display: inline-block;
+}
+
+.title10:hover{background: url("img/titlehov-10.jpg") no-repeat center ;
+	display: inline-block;
+}
+
+.title11{background: url("img/title-11.jpg") no-repeat center ;
+	display: inline-block;
+}
+
+.title11:hover{background: url("img/titlehov-11.jpg") no-repeat center ;
+	display: inline-block;
+}
+
+.title12{background: url("img/title-12.jpg") no-repeat center ;
+	display: inline-block;
+}
+
+.title12:hover{background: url("img/titlehov-12.jpg") no-repeat center ;
+	display: inline-block;
+}
+
+.title13{background: url("img/title-13.jpg") no-repeat center ;
+	display: inline-block;
+}
+
+.title13:hover{background: url("img/titlehov-13.jpg") no-repeat center ;
+	display: inline-block;
+}
+
+.title14{background: url("img/title-14.jpg") no-repeat center ;
+	display: inline-block;
+}
+
+.title14:hover{background: url("img/titlehov-14.jpg") no-repeat center ;
+	display: inline-block;
+}
+
+.title15{background: url("img/title-15.jpg") no-repeat center ;
+	display: inline-block;
+}
+
+.title15:hover{background: url("img/titlehov-15.jpg") no-repeat center ;
+	display: inline-block;
+}
+
+.title16{background: url("img/title-16.jpg") no-repeat center ;
+	display: inline-block;
+}
+
+.title16:hover{background: url("img/titlehov-16.jpg") no-repeat center ;
 	display: inline-block;
 }
 
