@@ -1,4 +1,4 @@
-body, header, blockquote, footer, div, h1, h2, h3, h4, ul, p  {margin:0;
+body, header, blockquote, footer, div, h1, ul, p  {margin:0;
 		padding:0;
 }
 
@@ -17,6 +17,7 @@ nav{margin-left: auto;
 	width: 700px;
 	padding-top: 30px;
 	padding-bottom: 30px;
+	position: center;
 
 }
 
@@ -67,7 +68,7 @@ a:visited{color: black;
 	text-align: center;
 	margin-right: auto;
 	margin-left: auto;
-	padding: 20px 20px;
+	padding: 20px 50px;
 	margin-bottom: 50px;
 	margin-top: 50px;
 
@@ -82,84 +83,107 @@ a:visited{color: black;
 
 }
 
-#section1 {width: 100%;
+#stain1 {width: 100%;
+	height: 100%;
 	background:url('img/1bis.jpg') right 100% no-repeat;
+	background-size: 20%;
 
 }
 
-#section2 {width: 100%;
-	background:url('img/2bis.jpg') left 10% no-repeat;
+#stain2 {width: 100%;
+	height: 100%;
+	background:url('img/2bis.jpg') left 100% no-repeat;
+	background-size: 38%;
 
 }
 
-#section3 {width: 100%;
-	background:url("img/3.jpg") right 1% no-repeat;
+#stain3 {width: 100%;
+	height: 100%;
+	background:url("img/3.jpg") right 100% no-repeat;
+	background-size: 15%;
 
 }
 
-#section4 {width: 100%;
-	background:url("img/4.jpg") left 10% no-repeat;
+#stain4 {width: 100%;
+	height: 100%;
+	background:url("img/4.jpg") left 100% no-repeat;
+	background-size: 35%;
 
 }
 
-#section5 {width: 100%;
+#stain5 {width: 100%;
+	height: 100%;
 	background:url("img/5.jpg") right 50% no-repeat;
+	background-size: 38%;
 
 }
 
-#section6 {width: 100%;
+#stain6 {width: 100%;
+	height: 100%;
 	background:url("img/6.jpg") left 50% no-repeat;
+	background-size: 38%;
 
 }
 
-#section7 {width: 100%;
+#stain7 {width: 100%;
+	height: 100%;
 	background:url("img/7.jpg") right 50% no-repeat;
-
+	background-size: 38%;
 }
 
-#section8 {width: 100%;
+#stain8 {width: 100%;
+	height: 100%;
 	background:url("img/8.jpg") left 50% no-repeat;
-
+	background-size: 38%;
 }
 
-#section9 {width: 100%;
+#stain9 {width: 100%;
+	height: 100%;
 	background:url("img/9.jpg") right 50% no-repeat;
-
+	background-size: 38%;
 }
 
-#section10 {width: 100%;
+#stain10 {width: 100%;
+	height: 100%;
 	background:url("img/10.jpg") left 50% no-repeat;
-
+	background-size: 38%;
 }
 
-#section11 {width: 100%;
+#stain11 {width: 100%;
+	height: 100%;
 	background:url("img/11.jpg") right 50% no-repeat;
-
+	background-size: 38%;
 }
 
-#section12 {width: 100%;
+#stain12 {width: 100%;
+	height: 100%;
 	background:url("img/12.jpg") left 50% no-repeat;
+	background-size: 38%;
 
 }
 
-#section13 {width: 100%;
+#stain13 {width: 100%;
+	height: 100%;
 	background:url("img/13.jpg") right 50% no-repeat;
-
+	background-size: 38%;
 }
 
-#section14 {width: 100%;
+#stain14 {width: 100%;
+	height: 100%;
 	background:url("img/14.jpg") left 50% no-repeat;
-
+	background-size: 38%;
 }
 
-#section15 {width: 100%;
+#stain15 {width: 100%;
+	height: 100%;
 	background:url("img/15.jpg") right 50% no-repeat;
-
+	background-size: 38%;
 }
 
-#section16 {width: 100%;
+#stain16 {width: 100%;
+	height: 100%;
 	background:url("img/16.jpg") left 50% no-repeat;
-
+	background-size: 38%;
 }
 
 .img{display: inline;
@@ -306,4 +330,18 @@ p{margin-bottom: 10px;
 
 footer{
 
+}
+
+@keyframes hideshow {
+  0% { opacity: 1; }
+  10% { opacity: 1; }
+  15% { opacity: 0; }
+  100% { opacity: 0; }
+} 
+
+
+
+#Calque_1 .firstword path {
+	fill : red;	
+	animation: hideshow 10s ease infinite;
 }
