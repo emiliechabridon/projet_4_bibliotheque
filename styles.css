@@ -351,6 +351,15 @@ footer{
 	animation: hideshow 10s ease infinite;
 }
 
+#Calque_1 .lineone polygon {
+	fill : red;	
+	animation: hideshow 10s ease infinite;
+}
+
+#Calque_1 .lineone rect {
+	fill : red;	
+	animation: hideshow 10s ease infinite;
+}
 
 #Calque_1 .linetwo path {
 	fill : black;	
@@ -358,6 +367,11 @@ footer{
 }
 
 #Calque_1 .linetwo rect {
+	fill : black;	
+	animation: hideshow 5s ease infinite;
+}
+
+#Calque_1 .linetwo polygon {
 	fill : black;	
 	animation: hideshow 5s ease infinite;
 }
