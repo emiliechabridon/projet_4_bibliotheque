@@ -385,3 +385,33 @@ footer{
 	fill : blue;	
 	animation: hideshow 2s ease infinite;
 }
+
+#Calque_1 .linethree rect {
+	fill : blue;	
+	animation: hideshow 2s ease infinite;
+}
+
+#Calque_1 .linefour polygon {
+	fill : green;	
+	animation: hideshow 4s ease infinite;
+}
+
+#Calque_1 .linefour rect {
+	fill : green;	
+	animation: hideshow 4s ease infinite;
+}
+
+#Calque_1 .linefour path {
+	fill : green;	
+	animation: hideshow 4s ease infinite;
+}
+
+#Calque_1 .lineone tspan {
+	fill : green;	
+	animation: hideshow 4s ease infinite;
+}
+
+#Calque_3 .lineone polygon {
+	fill : green;	
+	animation: hideshow 4s ease infinite;
+}
