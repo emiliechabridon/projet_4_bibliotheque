@@ -347,71 +347,71 @@ footer{
 
 
 #Calque_1 .lineone path {
-	fill : red;	
+	fill : #0F5257;	
 	animation: hideshow 10s ease infinite;
 }
 
 #Calque_1 .lineone polygon {
-	fill : red;	
+	fill : #0F5257;	
 	animation: hideshow 10s ease infinite;
 }
 
 #Calque_1 .lineone rect {
-	fill : red;	
+	fill : #0F5257;	
 	animation: hideshow 10s ease infinite;
 }
 
 #Calque_1 .linetwo path {
-	fill : black;	
+	fill : #D7E7F2;	
 	animation: hideshow 5s ease infinite;
 }
 
 #Calque_1 .linetwo rect {
-	fill : black;	
+	fill : #D7E7F2;	
 	animation: hideshow 5s ease infinite;
 }
 
 #Calque_1 .linetwo polygon {
-	fill : black;	
+	fill : #D7E7F2;	
 	animation: hideshow 5s ease infinite;
 }
 
 #Calque_1 .linethree path {
-	fill : blue;	
+	fill : #355370;	
 	animation: hideshow 2s ease infinite;
 }
 
 #Calque_1 .linethree polygon {
-	fill : blue;	
+	fill : #355370;	
 	animation: hideshow 2s ease infinite;
 }
 
 #Calque_1 .linethree rect {
-	fill : blue;	
+	fill : #355370;	
 	animation: hideshow 2s ease infinite;
 }
 
 #Calque_1 .linefour polygon {
-	fill : green;	
+	fill : #454ADE;	
 	animation: hideshow 4s ease infinite;
 }
 
 #Calque_1 .linefour rect {
-	fill : green;	
+	fill : #454ADE;	
 	animation: hideshow 4s ease infinite;
 }
 
 #Calque_1 .linefour path {
-	fill : green;	
+	fill : #454ADE;	
 	animation: hideshow 4s ease infinite;
 }
 
 #Calque_1 .lineone tspan {
-	fill : green;	
+	fill : #454ADE;	
 	animation: hideshow 4s ease infinite;
 }
 
 #Calque_3 .lineone polygon {
-	fill : green;	
+	fill : #454ADE;	
 	animation: hideshow 4s ease infinite;
 }
