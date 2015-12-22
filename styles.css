@@ -3,7 +3,6 @@ body, header, blockquote, footer, div, h1, ul, p  {margin:0;
 }
 
 body{background-color: #ffffff;
-	background: url(stains.png) no-repeat ;
 	margin-left: auto; 
 	margin-right: auto;	
 	font-family: 'Open Sans', sans-serif;	
@@ -52,6 +51,7 @@ svg{width: 300px;
 	height: 300px;
 
 }
+
 h1{color:navy;
 	font-size: 60px;
 	text-align: center;
@@ -71,15 +71,15 @@ a:visited{color: navy;
 	text-decoration: none;
 }
 
-.container {width: 500px;
-background-color:rgba(82,160,209,0.2);
+.container {width: 700px;
+background-color:rgba(82,160,209,0.5);
 	text-align: left;
 	margin-right: auto;
 	margin-left: auto;
-	padding: 60px 60px;
+	padding: 60px 100px;
 	margin-bottom: 50px;
 	margin-top: 50px;
-	border: 2px solid navy;
+	border: 0px solid navy;
 	box-shadow: -1px 2px 5px 1px rgba(0, 0, 0, 0.3);
 
 }
@@ -89,7 +89,7 @@ background-color:rgba(82,160,209,0.2);
 	text-align: right;
 	font-size: 50px;
 	padding-right: 30px;
-	padding-top: 250px;
+	padding-top: 500px;
 
 }
 
